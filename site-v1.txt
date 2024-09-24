@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="X-UA-Compatible" content="edge">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>..::Biblioteca do Senai::..</title>
+ 
+<script type="text/javascript" src="../js/generico.js"></script> 
+<script type="text/javascript" src="../js/ajax-dynamic-content.js"></script> 
+<script type="text/javascript" src="../js/ajax.js"></script>
+<!-- new css	 -->
+<link rel="stylesheet" type="text/css" href="../css/css_original_consulta.css"  /> 
+<!-- fim new css -->
+<script type="text/javascript" src="../js/ajax-tooltip.js"></script>
+
+<link rel="stylesheet" type="text/css" href="../css/ajax-tooltip.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/ajax-tooltip-demo.css" media="screen" />
+
+<link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"/>
+
+<link rel="stylesheet" type="text/css" href="../css/styles.css" />
+<link rel="stylesheet" type="text/css" href="../css/jquery-ui-1.8.13.custom.css">
+<link rel="stylesheet" type="text/css" href="../css/ui.dropdownchecklist.themeroller.css">
+<script type="text/javascript" src="../Scripts/jquery.js"></script>
+<script type="text/javascript" src="../Scripts/scripts.php"></script>
+<script type="text/javascript" src="../SpryAssets/SpryCollapsiblePanel.js" ></script>
+<script type="text/javascript" src="../SpryAssets/SpryTabbedPanels.js" ></script>
+<script type="text/javascript" src="../js/jquery-ui-1.8.13.custom.min.js"></script>
+<script type="text/javascript" src="../js/ui.dropdownchecklist.js"></script> 
+<script type="text/javascript" src="../js/popbox.js"></script> 
+<script type="text/javascript">
+
+-------------------------------------------
+
+segunda parte
